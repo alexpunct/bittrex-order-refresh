@@ -21,7 +21,7 @@ Installation & Usage
 ### Windows
 * Download and install the Node.js Windows Installer package from https://nodejs.org/en/download/. The default settings
 are fine.
-* Download bittrex-order-refresh (this tool) from https://github.com/lomacks/bittrex-order-refresh/archive/master.zip and extract it somewhere.
+* Download bittrex-order-refresh (this tool) from https://github.com/alexpunct/bittrex-order-refresh/archive/master.zip and extract it somewhere.
 * Double-click the `setup_windows` script to install dependencies.
 * Generate a new API key on Bittrex and give it "read info" and "trade limit" permissions.
 * Open `config.json` in *Wordpad* (Notepad can't handle these files properly) and fill in your new API key and secret key in the `credentials` section. Save and exit.
@@ -31,7 +31,7 @@ You can now start the tool by double-clicking the `run_windows` script. Do that 
 ### Mac OSX
 * Download and install the Node.js Macintosh Installer package from https://nodejs.org/en/download/. The default settings
 are fine.
-* Download bittrex-order-refresh (this tool) from https://github.com/lomacks/bittrex-order-refresh/archive/master.zip and extract it somewhere.
+* Download bittrex-order-refresh (this tool) from https://github.com/alexpunct/bittrex-order-refresh/archive/master.zip and extract it somewhere.
 * Double-click the `setup_osx.command` script to install dependencies.
 * Generate a new API key on Bittrex and give it "read info" and "trade limit" permissions.
 * Open `config.json` in TextEdit (or another editor) and fill in your new API key and secret key in the `credentials` section. Save and exit.
